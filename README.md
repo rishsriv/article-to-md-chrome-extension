@@ -16,7 +16,7 @@ A Chrome extension that converts web articles to clean Markdown format and copie
 2. Open Chrome and navigate to `chrome://extensions/`
 3. Enable "Developer mode" in the top right
 4. Click "Load unpacked" and select the extension directory
-5. The extension icon will appear in your toolbar
+5. The extension icon will appear in your toolbar (pin it for easiest usage)
 
 ## Usage
 
